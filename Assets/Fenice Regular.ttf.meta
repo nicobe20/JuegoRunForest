@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 754e81ea6fca93248984f859d21f98d8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 15
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fenice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: becb49d7ccafb2048b390a47c9e79097, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
